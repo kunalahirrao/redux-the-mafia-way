@@ -1,0 +1,20 @@
+.bearShop{
+    background-color: blue;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.mafia{
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.buttler{
+    background-color: orange;
+    border-radius: 5px;
+    padding: 20px 40px;
+    color: white;
+}
